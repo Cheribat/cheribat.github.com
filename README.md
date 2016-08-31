@@ -1,2 +1,2 @@
 # cheribat.github.com
-Test github pages.
+My blog on github.
